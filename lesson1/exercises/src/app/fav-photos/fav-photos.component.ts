@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Some pictures from my life';
+  image1 = 'https://www.visitphilly.com/areas/montgomery-county/ardmore/';
+  image2 = 'exercises/src/app/fav-photos/Images/Screen Shot 2022-06-02 at 7.13.30 PM.png';
+  image3 = 'exercises/src/app/fav-photos/Images/tentRocks.jpg';
 
   constructor() { }
 

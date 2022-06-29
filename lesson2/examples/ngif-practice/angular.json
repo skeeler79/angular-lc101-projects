@@ -116,5 +116,8 @@
         }
       }
     }},
-  "defaultProject": "ngfor-practice"
+  "defaultProject": "ngfor-practice",
+  "cli": {
+    "analytics": "3e26294e-3226-49f8-80f4-9aeb1d59e532"
+  }
 }
